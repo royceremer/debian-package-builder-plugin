@@ -25,12 +25,16 @@
       <name>Marat Mavlyutov</name>
       <email>mavlyutov@yandex-team.ru</email>
     </developer>
+    <developer>
+      <id>royceremer</id>
+      <email>royceremer@gmail.com</email>
+    </developer>
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/jenkinsci/debian-package-builder-plugin.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/debian-package-builder-plugin.git</developerConnection>
-    <url>https://github.com/jenkinsci/debian-package-builder-plugin</url>
+    <connection>scm:git:https://github.com/royceremer/debian-package-builder-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/royceremer/debian-package-builder-plugin.git</developerConnection>
+    <url>https://github.com/royceremer/debian-package-builder-plugin</url>
   </scm>
 
   <!-- get every artifact through repo.jenkins-ci.org, which proxies all the artifacts that we need -->
