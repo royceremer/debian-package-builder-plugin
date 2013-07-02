@@ -25,10 +25,6 @@
       <name>Marat Mavlyutov</name>
       <email>mavlyutov@yandex-team.ru</email>
     </developer>
-    <developer>
-      <id>royceremer</id>
-      <email>royceremer@gmail.com</email>
-    </developer>
   </developers>
 
   <scm>
@@ -80,6 +76,11 @@
       <groupId>org.codehaus.jedi</groupId>
       <artifactId>jedi-core</artifactId>
       <version>3.0.5</version>
+    </dependency>
+    <dependency>
+      <groupId>net.java.dev.jna</groupId>
+      <artifactId>jna</artifactId>
+      <version>3.2.2</version>
     </dependency>
   </dependencies>
 
